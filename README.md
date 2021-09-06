@@ -14,3 +14,7 @@ After running Stock_item_Entry.py, a dialog box appears
 1. Enter the name of excel file on first field.
 2. Enter the corresponding column on the corresponding field.
 3. Format for entry of stock items on the excel is attached with the program.
+
+----------------------------------------------------------------------------
+
+Output of this file is "my_xml.xml" which can be imported into tally using tally software
