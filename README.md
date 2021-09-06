@@ -1,5 +1,5 @@
 # excel_to_tally_for_Stock_item
-Modules to install before executing this program:
+Modules to install before executing Stock_item_Entry.py:
 
 1. tkinter
 type "pip install tkinter" on command prompt
@@ -9,7 +9,7 @@ type "pip install openpyxl" on command prompt
 
 ----------------------------------------------------------------------------
 
-How to use this program:
+After running Stock_item_Entry.py, a dialog box appears 
 
 1. Enter the name of excel file on first field.
 2. Enter the corresponding column on the corresponding field.
